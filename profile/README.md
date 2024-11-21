@@ -16,5 +16,5 @@
 ## 联系我们
 
 - 📧 **邮箱**：office@qinker.net
-- 🌐 **网站**：<a href="https://qinker.net" target="_blank">https://qinker.net</a>
+- 🌐 **网站**：[https://qinker.net](https://qinker.net)
 - 🦸‍♂️ **微信**：maydayfantast
